@@ -1,4 +1,8 @@
 <?php
-$host = 'localhost';
-$db = 'maxiburger';
+
+$host = "localhost";
+$user= "root";
+$pwd = "root";
+$database = "maxiburger";
+
 ?>
